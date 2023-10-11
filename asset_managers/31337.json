@@ -6,6 +6,14 @@
         "0x1977Bb20Fde0B503f72D3834832e5b70C7ee6b4A",
         "0x81f4eb0C91fEc7269f5CEf7246Bb5773D320c932"
       ]
+    },
+    {
+      "name": "Long-Term Investment",
+      "addresses": ["0x1977Bb20Fde0B503f72D3834832e5b70C7ee6b4A"]
+    },
+    {
+      "name": "Unclassified",
+      "addresses": ["0x0000000000000000000000000000000000000000"]
     }
   ],
   "assetManagers": [
