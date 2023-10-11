@@ -1,0 +1,107 @@
+{
+  "assetManagerGroups": [
+    {
+      "name": "Avareum Funds",
+      "assetManagers": [
+        {
+          "name": "Avareum Fundamental Fund",
+          "symbol": "AFF",
+          "overview": "### Why invest in Fundamental Fund ?\nThe Avareum Fundamental Fund is a long-term investment aiming to capitalize on digital assets that have productivity and growth potential by using Avareum Valuation Model adapted from traditional finance methodology with the on-chain data tracked from blockchain technology.\n\nTo select the digital assets, we highly believe that an outstanding protocol should generates sustainable growth in revenue. Then, the fundamental of the project should reflect the price of the token by the mechanism of tokenomics.",
+          "address": "0x1977Bb20Fde0B503f72D3834832e5b70C7ee6b4A",
+          "icon": "data:image/jpeg;base64,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",
+          "factsheetUrl": "https://avareum.finance/wp-content/uploads/2023/07/Fund-Factsheet-Fundamental-Fund.pdf",
+          "apy": 0,
+          "pricePerShare": 0,
+          "fees": [
+            {
+              "name": "Subscription Fee",
+              "value": "0%"
+            },
+            {
+              "name": "Redemption Fee",
+              "value": "0%"
+            }
+          ],
+          "policies": [
+            {
+              "name": "Epoch",
+              "value": "Investment subscription/redemption are locked over a defined period of time (\"Epoch\") and will be executed at the and of this period following predetermined priorities and risk metrics."
+            },
+            {
+              "name": "Restricted Tokens",
+              "value": "Allowing the token to be transferable only to or from specifically listed addresses"
+            }
+          ],
+          "detail": {
+            "asset": "0x2ACDe8bc8567D49CF2Fe54999d4d4A1cd1a9fFEA",
+            "collateral": "0xA6D6d7c556ce6Ada136ba32Dbe530993f128CA44",
+            "collateralReceiver": "0x6D544390Eb535d61e196c87d6B9c80dCD8628Acd",
+            "collateralSender": "0xd8058efe0198ae9dD7D563e1b4938Dcbc86A1F81",
+            "feeReceiver": "0xB1eDe3F5AC8654124Cb5124aDf0Fd3885CbDD1F7",
+            "assetDecimals": "18",
+            "collateralDecimals": "6",
+            "minimumSubscriptionAmount": "0",
+            "minimumRedemptionAmount": "0",
+            "subscriptionFeeBps": "0",
+            "redemptionFeeBps": "0",
+            "epochSubscriptionLimit": "100000000",
+            "epochRedemptionLimit": "100000000000000000000",
+            "status": 0,
+            "currentEpochId": 0,
+            "kycGroup": "0x6d19f94ed6da8fa673c6dd8596379874c93735a8304f155907511b33dba1002f",
+            "kycRegistry": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+          }
+        },
+        {
+          "name": "Avareum Cash Flow Fund",
+          "symbol": "ACFF",
+          "overview": "### Why invest in Cash Flow Fund ?\nThe Avareum Cash Flow Fund is a diversified portfolio that primarily invests in crypto options chosen for their fundamental properties. The fund may make any size investment in crypto options. Under typical circumstances, the fund will invest at least 70% of its assets’ value in Bitcoin options.\n\nDuring a cryptocurrency sideways or bear market, our investment adviser searches for cash flow by investing in crypto options. We examine crypto fundamentals in order to identify attractive underlying crypto for our options strategies.",
+          "address": "0x81f4eb0C91fEc7269f5CEf7246Bb5773D320c932",
+          "icon": "data:image/jpeg;base64,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",
+          "factsheetUrl": "https://avareum.finance/wp-content/uploads/2023/07/Fund-Fact-Sheet-Avareum-Cash-Flow-Fund.pdf",
+          "apy": 0,
+          "pricePerShare": 0,
+          "fees": [
+            {
+              "name": "Subscription Fee",
+              "value": "0%"
+            },
+            {
+              "name": "Redemption Fee",
+              "value": "0%"
+            }
+          ],
+          "policies": [
+            {
+              "name": "Epoch",
+              "value": "Investment subscription/redemption are locked over a defined period of time (\"Epoch\") and will be executed at the and of this period following predetermined priorities and risk metrics."
+            },
+            {
+              "name": "Restricted Tokens",
+              "value": "Allowing the token to be transferable only to or from specifically listed addresses"
+            }
+          ],
+          "detail": {
+            "asset": "0x8203678f6fB1BFF06aFf4d1bCD0EdCCCeb1914e4",
+            "collateral": "0xA6D6d7c556ce6Ada136ba32Dbe530993f128CA44",
+            "collateralReceiver": "0x6D544390Eb535d61e196c87d6B9c80dCD8628Acd",
+            "collateralSender": "0xd8058efe0198ae9dD7D563e1b4938Dcbc86A1F81",
+            "feeReceiver": "0xB1eDe3F5AC8654124Cb5124aDf0Fd3885CbDD1F7",
+            "assetDecimals": "18",
+            "collateralDecimals": "6",
+            "minimumSubscriptionAmount": "0",
+            "minimumRedemptionAmount": "0",
+            "subscriptionFeeBps": "0",
+            "redemptionFeeBps": "0",
+            "epochSubscriptionLimit": "100000000",
+            "epochRedemptionLimit": "100000000000000000000",
+            "status": 0,
+            "currentEpochId": 0,
+            "kycGroup": "0x6d19f94ed6da8fa673c6dd8596379874c93735a8304f155907511b33dba1002f",
+            "kycRegistry": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+          }
+        }
+      ]
+    }
+  ]
+}
