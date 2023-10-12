@@ -1,0 +1,22 @@
+{
+  "tokens": [
+    {
+      "name": "Avareum Fundamental Fund",
+      "symbol": "AFF",
+      "address": "0x2ACDe8bc8567D49CF2Fe54999d4d4A1cd1a9fFEA",
+      "decimals": 18
+    },
+    {
+      "name": "Avareum Cash Flow Fund",
+      "symbol": "ACFF",
+      "address": "0x8203678f6fB1BFF06aFf4d1bCD0EdCCCeb1914e4",
+      "decimals": 18
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xA6D6d7c556ce6Ada136ba32Dbe530993f128CA44",
+      "decimals": 6
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tokens": [
+    {
+      "name": "Avareum Stable Asset Fund",
+      "symbol": "ASAF",
+      "address": "0xBeae3F2469893BA0F9F0b006F2160782Af53b869",
+      "decimals": 18
+    },
+    {
+      "name": "USD-T Token",
+      "symbol": "USD-T",
+      "address": "0x8F5a1e30AD6Ac37608c24C93E6c2aFcd009991a1",
+      "decimals": 18
+    }
+  ]
+}
