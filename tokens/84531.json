@@ -1,15 +1,21 @@
 {
   "tokens": [
     {
-      "name": "Avareum Stable Asset Fund",
-      "symbol": "ASAF",
       "address": "0xBeae3F2469893BA0F9F0b006F2160782Af53b869",
+      "symbol": "ASAF",
+      "name": "Avareum Stable Asset Fund",
       "decimals": 18
     },
     {
-      "name": "USD-T Token",
-      "symbol": "USD-T",
-      "address": "0x8F5a1e30AD6Ac37608c24C93E6c2aFcd009991a1",
+      "address": "0x4BA75A2D277fC25DCe7DDc79a33CD2Fb8417863F",
+      "symbol": "AFF",
+      "name": "Avareum Fundamental Fund",
+      "decimals": 18
+    },
+    {
+      "address": "0xe68426A0Fe4509585988f25a9ec03C7B69dD0a4D",
+      "symbol": "ACFF",
+      "name": "Avareum Cash Flow Fund",
       "decimals": 18
     }
   ]
