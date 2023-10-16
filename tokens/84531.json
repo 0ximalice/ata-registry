@@ -17,6 +17,13 @@
       "symbol": "ACFF",
       "name": "Avareum Cash Flow Fund",
       "decimals": 18
+    },
+
+    {
+      "address": "0x2C6aC04b1C1cF5C963CB75616FfA4Ff47a65d8A7",
+      "symbol": "AUSD",
+      "name": "Avareum USD Treasury",
+      "decimals": 18
     }
   ]
 }
